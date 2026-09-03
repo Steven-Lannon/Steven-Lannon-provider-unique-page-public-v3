@@ -23,11 +23,11 @@ export default function RootLayout({ children }) {
       <head>
         <link
           rel="stylesheet"
-          href="https://static1.squarespace.com/static/versioned-site-css/6525fe2f00c9de2ec400ea4f/1158/5c5a519771c10ba3470d8101/6525fe2f00c9de2ec400ea58/1810/site.css?nocustom=true"
+          href="https://static1.squarespace.com/static/versioned-site-css/6525fe2f00c9de2ec400ea4f/1159/5c5a519771c10ba3470d8101/6525fe2f00c9de2ec400ea58/1818/site.css?nocustom=true"
         />
         <link
           rel="stylesheet"
-          href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1784658820989-T86EF34M4QVPBBCSSFUN/static.css"
+          href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1787156543145-0MJJPDTBNWE734EUOY27/static.css"
         />
         <link
           rel="stylesheet"
