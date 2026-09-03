@@ -8,7 +8,7 @@ import { useState, useEffect, useRef } from "react";
 // The mobile menu below is a simple, fully custom overlay instead --
 // same links, same rough styling, but zero dependency on unknown
 // Squarespace behavior, so it just works.
-const HEADER_HTML = `<header id="header" class="header theme-col--primary shrink" style="
+const HEADER_HTML = `<header id="header" class="header theme-col--primary" style="
   --headerDropShadowColor: hsla(var(--black-hsl), 1);
   --headerBorderColor: hsla(var(--black-hsl), 1);
   --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
